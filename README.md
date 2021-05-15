@@ -1,5 +1,6 @@
 # HydroGlobe Demo - EarthCube 2021 Annual Conference
 
+To launch the HydroGlobe tool on binder please click here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hydroglobe-ec/ecube2021/HEAD?urlpath=apps%2Fbin%2FHydroglobe.ipynb)
 
 This is a demo of the HydroGlobe tool for the EarthCube 2021 Annual Conference.
